@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:text="Happy Birthday,Bharti!!"
         android:textSize="30sp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="15dp"
         android:layout_marginLeft="10dp"
         android:textColor="#331d27"/>
     <TextView
